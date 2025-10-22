@@ -1,0 +1,3 @@
+[submodule "rng-game"]
+	path = rng-game
+	url = https://github.com/shivampipalwa/rng-game.git
